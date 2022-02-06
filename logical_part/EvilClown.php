@@ -34,4 +34,4 @@ function trimExtraBrackets(string $sting): string
 }
 
 
-echo trimExtraBrackets("privet))))) skucno((");
+echo trimExtraBrackets("privet))))) skuchno((");
