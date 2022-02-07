@@ -21,7 +21,7 @@ numbers equals the sum of the next three numbers. Examples of such ticket number
 Write with PHP a function that returns all lucky numbers.
 ");
 echo "<pre>";
-//print_r(generateLuckyTicketList());
+print_r(generateLuckyTicketList());
 echo "</pre>";
 
 echo "<hr>";
