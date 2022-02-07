@@ -31,4 +31,4 @@ function strlen_alternative(string $string, int $i = 0): int
 }
 
 
-echo strrev_alternative("Hello world!");
+

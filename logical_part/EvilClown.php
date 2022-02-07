@@ -3,7 +3,7 @@
  * Trim Extra Brackets
  *
  *
- * todo add description
+ * Функция убирает лишние скобки
  *
  * string $sting
  * @param string $sting
@@ -33,5 +33,3 @@ function trimExtraBrackets(string $sting): string
     return $sting;
 }
 
-
-echo trimExtraBrackets("privet))))) skuchno((");

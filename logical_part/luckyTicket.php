@@ -65,5 +65,4 @@ function numberCount(): array
 }
 
 
-echo "<pre>";
-print_r(generateLuckyTicketList());
+
