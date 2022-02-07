@@ -1,5 +1,5 @@
 <?php
-require_once "/word_count.php";
+//require_once "/word_count.php";
 
 /**
  * Функция возвращает уникальные слова в тексте
